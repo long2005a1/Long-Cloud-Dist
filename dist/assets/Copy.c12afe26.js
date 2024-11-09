@@ -1,1 +1,0 @@
-import{c as e}from"./index.faf3897f.js";import{g as o}from"./useTitle.0f4b76ad.js";import{T as t}from"./Tasks.6fb91e31.js";import"./Paginator.31e603cf.js";import"./index.74f3cac1.js";const n=()=>(o("manage.sidemenu.copy"),e(t,{type:"copy",canRetry:!0}));export{n as default};
