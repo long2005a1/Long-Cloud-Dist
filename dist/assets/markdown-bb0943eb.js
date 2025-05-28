@@ -1,0 +1,1 @@
+import{dF as n,x as r,as as a,cK as o,af as s,ar as c}from"./index-ff851c3c.js";const u=()=>{const[e]=n();return r(c,{get loading(){return e.loading},get children(){return r(a,{get children(){var t;return(t=e())==null?void 0:t.content},get ext(){return o(s.obj.name)},toc:!0})}})};export{u as default};
